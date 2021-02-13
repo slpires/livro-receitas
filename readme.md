@@ -2,8 +2,10 @@
 
 :cake:
 
-*by Digital Innovation One..*
+*by Digital Innovation One*.
 
 ministrado por **Otávio Reis**
 
 https://github.com/Perkles
+
+.
