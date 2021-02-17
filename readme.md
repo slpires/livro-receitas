@@ -2,7 +2,7 @@
 
 :cake:
 
-*by Digital Innovation One*.
+*by [**Digital Innovation One**](https://digitalinnovation.one/ "DIO")*.
 
 ministrado por **Otávio Reis**
 
